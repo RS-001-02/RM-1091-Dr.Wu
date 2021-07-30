@@ -8,7 +8,7 @@
 - 研究领域为机器学习，深度学习，多媒体处理，文本生成，机器翻译；
 
 ## <a href="">学生</a>
-**Haolong Jia**
+**贾昊龙**
 
 
 
@@ -60,7 +60,7 @@ The combination of state-of-the-art deep learning models and signal processing t
 ## 项目资料
 - <a href="https://dqwang.link/haolongjia">贾昊龙VIDEO ACTIVITY DETECTION项目地址</a>
 - <a href="https://gitlab.kitware.com/actev/actev-data-repo">数据集GitLab地址</a>
-- <a href="https://data.kitware.com/#collection/56f56db28d777f753209ba9f/folder/56f581ce8d777f753209ca43">数据集</a>
+- <a href="https://data.kitware.com/#collection/56f56db28d777f753209ba9f/folder/56f581ce8d777f753209ca43">数据集源文件</a>
 
 
 
