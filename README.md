@@ -13,7 +13,7 @@
 
 
 ## 课程介绍
-### <a href="https://github.com/RS-001-02/RM-1091-Dr.Wu/blob/main/%E6%9C%89%E6%96%B9-%E7%A7%91%E7%A0%94%E7%AB%9E%E8%B5%9B%E5%9F%B9%E5%85%BB%E6%96%B9%E6%A1%88-%E4%B8%93%E4%B8%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A0%94%E8%AE%A8%E7%8F%AD%20%E8%B4%BE%E6%98%8A%E9%BE%99%E8%AE%BE%E8%AE%A1.pdf">VIDEO ACTIVITY DETECTION</a>
+### <a href="https://github.com/RS-001-02/RM-1091-Dr.Wu/blob/main/%E6%9C%89%E6%96%B9-%E7%A7%91%E7%A0%94%E7%AB%9E%E8%B5%9B%E5%9F%B9%E5%85%BB%E6%96%B9%E6%A1%88-%E4%B8%93%E4%B8%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A0%94%E8%AE%A8%E7%8F%AD%E8%B4%BE%E6%98%8A%E9%BE%99%E8%AE%BE%E8%AE%A1.pdf">VIDEO ACTIVITY DETECTION</a>
 An activity is defined to be “one or more people performing a specified movement or interacting with an object or group of objects”.
 
 Video activity recognition aims at detecting and tracking objects involved in the activities. It has been the subject of important research efforts due to the importance
