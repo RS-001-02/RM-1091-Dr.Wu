@@ -41,18 +41,17 @@ The combination of state-of-the-art deep learning models and signal processing t
 **TBA为待确定具体时间**
 | DATA | COURSE| CONTENT| 
 |----|---------|-----|
-| 2021-06-05  | Mentor Class 1 | **Introduction of the task.** <br>Assignment：<li>Collect relevant literature within the scope of the task.</li> |
+| 2021-06-05  | Mentor Class 1 | **Introduction of the task**  <br><br>Assignment：<li>Collect relevant literature within the scope of the task.</li> |
 | 2021-06-27  | Professor Class 1 | **The Introduction to Artificial Intelligence** <br><li>The Basis of Machine Learning</li><li>The Basis of Deep Learning</li> |
 | 2021-07-04  | Professor Class 2 | **The Introduction to Computer Vision** <br><li>The importance of CV</li><li>The application of CV in environment</li> |
-| 2021-07-10  | Mentor Class 2 | **Discussing possible research direction of the given task** <br>Assignment：<li>Draft the basic structure of the system</li><li>Write a literature review based on the collected papers.</li> |
-| 2021-07-17  | Mentor Class 3 | **Machine learning fundamentals:** <br><li>The importance of CV</li><li>The application of CV in environment</li> <br>Assignment：
-<li>Read blogs about basic concepts of machine learning</li><li>Follow Python tutorials to build machine learning models</li>|
+| 2021-07-10  | Mentor Class 2 | **Discussing possible research direction of the given task** <br><br>Assignment：<li>Draft the basic structure of the system</li><li>Write a literature review based on the collected papers.</li> |
+| 2021-07-17  | Mentor Class 3 | **Machine learning fundamentals** <br><li>The importance of CV</li><li>The application of CV in environment</li> <br>Assignment：<li>Read blogs about basic concepts of machine learning</li><li>Follow Python tutorials to build machine learning models</li>|
 | 2021-07-25  | Professor Class 3 | <li>Academic Writing</li><li>Review Students’ Presentation</li> |
-| 2021-07-31  | Mentor Class 4 |  **Deep learning fundamentals:** <br><li>Neuron model and multi-layer dense neural network</li><li>Stochastic gradient decent</li> <br>Assignment： <li>Summarize the core concepts of deep learning</li> |
+| 2021-07-31  | Mentor Class 4 |  **Deep learning fundamentals** <br><li>Neuron model and multi-layer dense neural network</li><li>Stochastic gradient decent</li> <br>Assignment： <li>Summarize the core concepts of deep learning</li> |
 | 2021-08-07  | Mentor Class 5 | <li>Dataset preprocessing</li><li>Video preprocessing techniques</li> <br>Assignment： <li>Download and read all the instruction of the dataset.</li> <li>Learning the relevant techniques in video processing</li> |
-| 2021-08-14  | Mentor Class 6 | **Feature engineering:** <li>Extract useful features from the data</li><br>Assignment：<li>Finish creating of the features.</li>  <li>Write the feature extraction part of the paper.</li>|
-| 2021-08-21  | Mentor Class 7 | **Baseline model development:**<li>Design and train a baseline model</li><li>Evaluate the model performance</li> <br>Assignment： <li>Finish baseline model development</li> <li>Write the baseline model part of the paper</li> |
-| 2021-08-28  | Mentor Class 8 | **Deep learning model development:**<li>Build first version of the deep neural network</li><li>Evaluate the model performance</li> <br>Assignment： <li>Finish the deep learning model</li> <li>Complete the paper.</li> <li>Submit the results.</li>|
+| 2021-08-14  | Mentor Class 6 | **Feature engineering** <li>Extract useful features from the data</li><br>Assignment：<li>Finish creating of the features.</li>  <li>Write the feature extraction part of the paper.</li>|
+| 2021-08-21  | Mentor Class 7 | **Baseline model development**<li>Design and train a baseline model</li><li>Evaluate the model performance</li> <br>Assignment： <li>Finish baseline model development</li> <li>Write the baseline model part of the paper</li> |
+| 2021-08-28  | Mentor Class 8 | **Deep learning model development**<li>Build first version of the deep neural network</li><li>Evaluate the model performance</li> <br>Assignment： <li>Finish the deep learning model</li> <li>Complete the paper.</li> <li>Submit the results.</li>|
 | TBA  | Professor Class 4 | Review Students’ Presentation|
 | TBA  | 阶段性考察汇报：有方审核，论文定稿|
 | TBA  | 论文发表启动（确定投稿目标期刊/会议）|
