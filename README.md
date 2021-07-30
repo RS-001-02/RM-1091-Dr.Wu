@@ -53,9 +53,9 @@ The combination of state-of-the-art deep learning models and signal processing t
 | 2021-08-21  | Mentor Class 7 | **Baseline model development**<li>Design and train a baseline model</li><li>Evaluate the model performance</li> <br>Assignment： <li>Finish baseline model development</li> <li>Write the baseline model part of the paper</li> |
 | 2021-08-28  | Mentor Class 8 | **Deep learning model development**<li>Build first version of the deep neural network</li><li>Evaluate the model performance</li> <br>Assignment： <li>Finish the deep learning model</li> <li>Complete the paper.</li> <li>Submit the results.</li>|
 | TBA  | Professor Class 4 | Review Students’ Presentation|
-| TBA  | 阶段性考察汇报：有方审核，论文定稿|
-| TBA  | 论文发表启动（确定投稿目标期刊/会议）|
-| TBA  | 论文发表收录|
+| TBA  | Paper Work|阶段性考察汇报：有方审核，论文定稿|
+| TBA  | Paper Work |论文发表启动（确定投稿目标期刊/会议）|
+| TBA  | Paper Work |论文发表收录|
 
 
 
