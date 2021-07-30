@@ -57,7 +57,10 @@ The combination of state-of-the-art deep learning models and signal processing t
 | TBA  | Paper Work |论文发表启动（确定投稿目标期刊/会议）|
 | TBA  | Paper Work |论文发表收录|
 
-
+## 项目资料
+- <a href="https://dqwang.link/haolongjia">贾昊龙VIDEO ACTIVITY DETECTION项目地址</a>
+- <a href="https://gitlab.kitware.com/actev/actev-data-repo">数据集GitLab地址</a>
+- <a href="https://data.kitware.com/#collection/56f56db28d777f753209ba9f/folder/56f581ce8d777f753209ca43">数据集</a>
 
 
 
