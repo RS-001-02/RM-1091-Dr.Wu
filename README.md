@@ -8,7 +8,7 @@
 - 研究领域为机器学习，深度学习，多媒体处理，文本生成，机器翻译；
 
 ## 学生
-<a href="">贾昊龙</a>
+<a href="https://github.com/RS-001-02/RM-1091-Dr.Wu/blob/main/%E8%B4%BE%E6%98%8A%E9%BE%99%E7%AE%80%E5%8E%86.pdf">贾昊龙</a>
 
 
 
